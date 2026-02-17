@@ -74,7 +74,7 @@
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
     <div style="display:flex;flex-direction:row;gap:2">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap" width='70%'/>
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React Native"/>
     </div>
 
