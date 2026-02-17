@@ -92,8 +92,10 @@
 <td width="50%" align="center">
   <h3>🧰 Tools & Platforms</h3>
 
-  <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+<img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" />
+
 
 </td>
 
