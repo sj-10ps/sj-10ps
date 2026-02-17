@@ -16,7 +16,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sps24723@gmail.com"><img src="https://img.shields.io/badge/📧_sps24723@gmail.co-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:sps24723@gmail.com"><img src="https://img.shields.io/badge/📧_sps24723@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
  
   </p>
@@ -66,7 +66,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,kotlin" />
 <br/><br/>
 
 </td>
