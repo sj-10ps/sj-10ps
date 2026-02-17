@@ -27,7 +27,8 @@
 
 
   <a href="https://www.credly.com/users/sooraj-ps.c7a337d2">
-    <img src="./credly-svgrepo-com.svg" />
+   <img src="https://img.shields.io/badge/Certifications-Credly-4AB3F4?style=for-the-badge&logo=certificate&logoColor=white" />
+
   </a>
 
   <a href="https://github.com/sj-10ps">
