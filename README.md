@@ -91,14 +91,10 @@
 
 <td width="50%" align="center">
   <h3>🧰 Tools & Platforms</h3>
-  <div style={display:'flex'}>
-  
-  <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" style={width='90%'} />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"  style={width='10%'}/>
-    
+  <div style="display:flex">
+  <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" width='90%' />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render"  width='10%'/>
   </div>
-
-
 </td>
 
 </tr>
