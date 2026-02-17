@@ -42,9 +42,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
+  <a href="https://my-portfolio-two-chi-27.vercel.app/">
+ <img src="https://img.shields.io/badge/My-Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
+
+  </a>
+
  <!-- <a href="https://x.com/mike_devlogs">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
+  
  
 
   <a href="https://youtube.com/EduMikeStudio">
