@@ -43,7 +43,8 @@
   </a>
 
   <a href="https://my-portfolio-two-chi-27.vercel.app/">
- <img src="https://img.shields.io/badge/My-Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
+ <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
 
   </a>
 
