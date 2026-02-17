@@ -73,8 +73,10 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,reactnative,nextjs,tailwind,bootstrap,next" />
-
+    <div style="display:flex;flex-direction:row;gap:2">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React Native"/>
+    </div>
 
 </td>
 
@@ -92,7 +94,7 @@
 <td width="50%" align="center">
   <h3>🧰 Tools & Platforms</h3>
   <div style="display:flex;flex-direction:row;gap:2">
-  <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" width='70%' />
+  <img src="https://skillicons.dev/icons?i=git,vercel,docker,vscode,gcp,postman,androidstudio" width='70%' />
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="30" alt="Render"  />
   </div>
 </td>
