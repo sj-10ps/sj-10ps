@@ -84,7 +84,6 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 <br/><br/>
 
@@ -92,7 +91,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-  <div>
+  <div style={display:'flex'}>
     <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" />
       <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render"/>
   </div>
