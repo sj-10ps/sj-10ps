@@ -91,9 +91,9 @@
 
 <td width="50%" align="center">
   <h3>🧰 Tools & Platforms</h3>
-  <div style="display:flex;flex-direction:row">
+  <div style="display:flex;flex-direction:row;gap:2">
   <img src="https://skillicons.dev/icons?i=git,vercel,docker,cloudinary,vscode,gcp,postman,androidstudio" width='70%' />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render"  />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="30" alt="Render"  />
   </div>
 </td>
 
