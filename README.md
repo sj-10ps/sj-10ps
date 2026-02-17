@@ -26,15 +26,15 @@
 <p align="left">
 
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://www.credly.com/users/sooraj-ps.c7a337d2">
     <img src="./credly-svgrepo-com.svg" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/sj-10ps">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
+  <a href="https://www.instagram.com/sj_p.s">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
