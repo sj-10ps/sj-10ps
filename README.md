@@ -27,7 +27,7 @@
 
 
   <a href="https://discord.com/users/midhun_n">
-    <img src="https://www.svgrepo.com/show/331358/credly.svg" />
+    <img src="https://www.svgrepo.com/show/331358/credly.svg?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://github.com/Midhun-Nk">
