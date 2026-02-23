@@ -5,13 +5,13 @@
   Hi, I'm <strong>Sooraj P S</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Next.js • React Native • Django • Tailwind CSS  </h3>
+<h3>Full Stack Developer | MERN • Next.js • React Native •Flutter Django • Tailwind CSS  </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Hi! I'm Sooraj P.S a passionate Full Stack Developer specializing in JavaScript, TypeScript, Next.js, and the MERN stack, with experience in React Native for mobile apps, Kotlin with Jetpack Compose, and Python Django for backend solutions.
+    Hi! I'm Sooraj P.S a passionate Full Stack Developer specializing in JavaScript, TypeScript, Next.js, and the MERN stack, with experience in React Native for mobile apps, Flutter for cross platform apps.Kotlin with Jetpack Compose, and Python Django for backend solutions.
   </p>
 
   <p>
